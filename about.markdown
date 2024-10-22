@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! My name is Audrey, and I am a junior at UNC Chapel Hill. I am double majoring in Computer Science (B.S.) and Statistics (B.S.). 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I first discovered how much I love to code when I took an Introduction to Computer Science class as a freshman. This led me to apply to the UNC Computer Science major, and I even became a Teaching Assistant for that very class!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Pursuing a career in data science is a natural progression of my combined passion for computer science and mathematics. I am interested in modeling, machine learning, and AI.
