@@ -25,60 +25,6 @@ GPA: 3.984 \| Major GPA: 4.000
 **Languages**: Python, Java, C, R, Julia, LaTeX   
 **Software**: Excel, Tableau
 
-### Projects
-
-<table>
-  <thead>
-    <tr>
-      <th>Introductory Assignment Sequence</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        • Collaborated with a partner to design a three-project sequence for the beginner programming course at UNC <br>
-        • Created assignments requiring students to utilize variables, functions, and loops in Python
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>Predicting Adverse Health Events</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        • Used machine learning techniques to predict the likelihood of a patient experiencing an adverse health event, based on their individual health history <br>
-        • Trained a logistic regression model in R Python <br>
-        • View the project <a href="https://drive.google.com/file/d/1URVlZlsnvQLJY_19kqLToaXnvsSMPHrI/view?usp=sharing">here</a>
-      </td>
-    </tr>
-  </tbody>
-  </table>
-
-  <table>
-  <thead>
-    <tr>
-      <th>Fine-Tuning Generative AI on Error Messages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        • Completed a comprehensive literature review on AI topics, with a focus on AI-generated error messages for code <br>
-        • Designed a project to test the efficacy of fine-tuning generative AI models to create enhanced programming error messages <br>
-        • Wrote a Python script to automatically filter out unusable examples in the dataset <br>
-        • Fine-tuned GPT-3.5 on 40 example code files and error messages, and compared the performance of the fine-tuned and base models <br>
-        • Read my research paper <a href="https://drive.google.com/file/d/1_uS9JbR_WSkRSsOProIZ8-qxenqgLYem/view?usp=sharing">here</a>
-      </td>
-    </tr>
-  </tbody>
-  </table>
-
 ### Professional Experience
 
 **Teaching Assistant** \| UNC Computer Science Department \| _August 2023 - Present_    
