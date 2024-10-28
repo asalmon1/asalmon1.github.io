@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-View my resume as a PDF [here](https://drive.google.com/file/d/1GoCaSmiPNYifVhbrlQCWjkZNOwSuyglE/view?usp=sharing).
+View my resume as a PDF [here](https://drive.google.com/file/d/131LGPThztQ_DPGHfABnfGy00JaH3bU5s/view?usp=sharing).
 
 ---
 
@@ -22,7 +22,7 @@ GPA: 3.984 \| Major GPA: 4.000
 
 ### Technical Skills
 
-**Languages**: Python, Java, C, R, Julia, LaTeX   
+**Languages**: Python, Java, C, R, Julia, LaTeX, HTML, SQL 
 **Software**: Excel, Tableau
 
 ### Professional Experience
