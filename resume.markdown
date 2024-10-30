@@ -8,8 +8,6 @@ View my resume as a PDF [here](https://drive.google.com/file/d/131LGPThztQ_DPGHf
 
 ---
 
-<br>
-
 ### Education
 
 **The University of North Carolina at Chapel Hill** \| Chapel Hill, NC   
