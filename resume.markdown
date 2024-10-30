@@ -27,15 +27,31 @@ GPA: 3.984 \| Major GPA: 4.000
 
 ### Professional Experience
 
+
+**Data Science/Machine Learning Intern** \| _March - May 2024_   
+<ul>
+<li>As part of a two-month internship with the Healthcare Data Analytics Institute, used machine learning techniques in R to quantify the risk of mortality for a given patient, based on individual health data</li>
+<li>Performed exploratory data analysis to gain insights from provided data</li>
+<li>Ran feature selection to get rid of unrelated variables, and generated a logistic regression model</li>
+</ul>
+<br>
+
 **Teaching Assistant** \| UNC Computer Science Department \| _August 2023 - Present_    
-• Mentor and assist over 300 Introduction to Programming (COMP 110) students, explaining concepts to both Computer Science and non-technical majors\
-• Grade assignments and quizzes to provide feedback, and develop lesson plans
+<ul>
+<li>Mentor and assist over 300 Introduction to Programming (COMP 110) students, explaining concepts to both Computer Science and non-technical majors</li>
+<li>Grade assignments and quizzes to provide feedback, and develop lesson plans</li>
+</ul>
 <br>
 
 **Team-Building Lead** \| UNC COMP 110 Teaching Assistant Team \| _August 2024 - Present_   
-• Plan, obtain funding for, and host events for the COMP 110 Teaching Assistant Team
+<ul>
+<li>Plan, obtain funding for, and host events for the COMP 110 Teaching Assistant Team</li>
+</ul>
 <br>
 
 **Data Desk** \| The Daily Tar Heel \| _January 2024 - Present_   
-• Conduct research to obtain data for various news articles\
-• Organize, analyze, and create visualizations with relevant data
+<ul>
+<li>Conduct research to obtain data for various news articles</li>
+<li>Organize, analyze, and create visualizations with relevant data</li>
+</ul>
+<br>
