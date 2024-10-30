@@ -22,7 +22,7 @@ GPA: 3.984 \| Major GPA: 4.000
 
 ### Technical Skills
 
-**Languages**: Python, Java, C, R, Julia, LaTeX, HTML, SQL   
+**Languages**: Python, Java, C, R, Julia, LaTeX, HTML, SQL    
 **Software**: Excel, Tableau
 
 ### Professional Experience
