@@ -51,5 +51,6 @@ GPA: 3.984 \| Major GPA: 4.000
 <ul>
 <li>Conduct research to obtain data for various news articles</li>
 <li>Organize, analyze, and create visualizations with relevant data</li>
+<li>Read an article featuring one of my visualizations <a href="https://www.dailytarheel.com/article/2024/02/city-ocs-teacher-hiring-retention-update">here</a></li>
 </ul>
 <br>
