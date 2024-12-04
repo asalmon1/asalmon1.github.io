@@ -62,10 +62,12 @@ GPA: 3.984 \| Major GPA: 4.000
 **Team-Building Lead** \| UNC COMP 110 Teaching Assistant Team \| _2024 - Present_   
 <ul>
 <li>Plan, obtain funding for, and host events for the COMP 110 Teaching Assistant Team</li>
+<li>Ensure that other TAs respond to tickets promptly and work their scheduled office hours shifts</li>
+<li>Assist newer TAs with technical problems they can't solve during office hours (usually issues with Docker, git, or Visual Studio Code)</li>
 </ul>
 <br>
 
-**Data Desk** \| The Daily Tar Heel \| _2024 - Present_   
+**Data Desk** \| The Daily Tar Heel \| _2024_   
 <ul>
 <li>Conduct research to obtain data for various news articles</li>
 <li>Organize, analyze, and create visualizations with relevant data</li>
