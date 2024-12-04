@@ -5,7 +5,7 @@ permalink: /resume/
 
 ---
 
-View my resume as a PDF [here](https://drive.google.com/file/d/1hB0o4V4M8I8sIjxuNWeI34GsUV8ey-qf/view?usp=sharing).
+View my resume as a PDF [here](https://drive.google.com/file/d/14VTF4tsQTSY9beUHKSZgus-G3OGOJZzk/view?usp=sharing).
 
 ---
 
