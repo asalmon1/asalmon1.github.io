@@ -54,7 +54,7 @@ GPA: 3.984 \| Major GPA: 4.000
 
 **Teaching Assistant** \| UNC Computer Science Department \| _2023 - Present_    
 <ul>
-<li>Mentor and assist over 300 Introduction to Programming (COMP 110) students, explaining concepts to both Computer Science and non-technical majors</li>
+<li>Mentor and assist over 900<sup><a href="#footnote1">1</a></sup> Introduction to Programming (COMP 110) students, explaining concepts to both Computer Science and non-technical majors</li>
 <li>Grade assignments and quizzes to provide feedback, and develop lesson plans</li>
 </ul>
 <br>
@@ -74,3 +74,6 @@ GPA: 3.984 \| Major GPA: 4.000
 <li>Read an article featuring one of my visualizations <a href="https://www.dailytarheel.com/article/2024/02/city-ocs-teacher-hiring-retention-update">here</a></li>
 </ul>
 <br>
+
+
+<small id="footnote1">1. Number of students served as of Fall 2024. This may change depending on the semester.</small>

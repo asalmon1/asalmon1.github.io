@@ -10,7 +10,7 @@ During Summer of 2024, I worked as a Student Researcher at University College Du
 
 <img src="/images/D6CD4D88-F26C-4026-B209-B546BA5F31AF.jpg" alt="Final poster for the project">
 
-Read my research paper <a href="https://drive.google.com/file/d/1_uS9JbR_WSkRSsOProIZ8-qxenqgLYem/view?usp=sharing">here</a>[^1].
+Read my research paper <a href="https://drive.google.com/file/d/1_uS9JbR_WSkRSsOProIZ8-qxenqgLYem/view?usp=sharing">here</a><sup><a href="#footnote1">1</a></sup>.
 
 <br>
 
@@ -28,4 +28,4 @@ View the project <a href="https://drive.google.com/file/d/1URVlZlsnvQLJY_19kqLTo
 
 
 
-[^1]: Note that the finished paper also includes another student's work on one-shot prompting for enhanced error messages. My research focused on the fine-tuned model.
+<small id="footnote1">1. Note that the finished paper also includes another student's work on one-shot prompting for enhanced error messages. My research focused on the fine-tuned model.</small> 
