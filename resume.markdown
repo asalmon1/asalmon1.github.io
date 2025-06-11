@@ -5,7 +5,7 @@ permalink: /resume/
 
 ---
 
-View my resume as a PDF [here](https://drive.google.com/file/d/14VTF4tsQTSY9beUHKSZgus-G3OGOJZzk/view?usp=sharing).
+View my resume as a PDF [here](https://drive.google.com/file/d/1b38k48m7GQNYfLu1B0XJ9qSWZJyOJygd/view?usp=sharing).
 
 ---
 
@@ -15,7 +15,7 @@ View my resume as a PDF [here](https://drive.google.com/file/d/14VTF4tsQTSY9beUH
 **Expected Graduation**: May 2026
 
 Computer Science, B.S. \| Statistics and Analytics, B.S.   
-GPA: 3.984 \| Major GPA: 4.000
+GPA: 3.990 \| Major GPA: 4.000
 
 **Relevant Courses**: Methods of Data Analysis, Systems Fundamentals, Linear Algebra, Decision Analytics, Optimization, Files and Databases, Foundations of Software Engineering, Computer Organization, Algorithms and Analysis
 
