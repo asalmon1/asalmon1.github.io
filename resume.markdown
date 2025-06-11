@@ -17,60 +17,71 @@ View my resume as a PDF [here](https://drive.google.com/file/d/14VTF4tsQTSY9beUH
 Computer Science, B.S. \| Statistics and Analytics, B.S.   
 GPA: 3.984 \| Major GPA: 4.000
 
-**Relevant Courses**: Analysis of Data Structures, Methods of Data Analysis, Systems Fundamentals, Models of Languages and Computation, Multivariable Calculus, Discrete Mathematics, Linear Algebra, Decision Analytics
+**Relevant Courses**: Methods of Data Analysis, Systems Fundamentals, Linear Algebra, Decision Analytics, Optimization, Files and Databases, Foundations of Software Engineering, Computer Organization, Algorithms and Analysis
 
 ### Technical Skills
 
 **Languages**: 
 <ul>
-<li>Python (NumPy, PyTest, Pandas)</li> 
+<li>Python (NumPy, PyTest, Pandas, PySpark)</li> 
 <li>Java</li>
 <li>C</li>
 <li>R (ggplot, dplyr)</li>
 <li>Julia</li>
 <li>SQL</li>
-<li>HTML</li>
+<li>HTML, Javascript</li>
 </ul>
 <br>
 
-**Software/Tools**: 
+**Software and Tools**: 
 <ul>
-<li>Microsoft Suite (Excel, Powerpoint, Word)</li>
+<li>Microsoft Office (Excel, Powerpoint, Word)</li>
 <li>Tableau</li>
 <li>Docker</li>
 <li>LaTeX</li>
+<li>Palantir Foundry</li>
+<li>Jupyter Notebooks</li>
 </ul>
 
 ### Professional Experience
 
 
-**Data Science/Machine Learning Intern** \| _2024_   
+**Data Science and Machine Learning Intern** \| Healthcare Data Analytics Institute \| _2024_   
 <ul>
-<li>As part of an internship with the Healthcare Data Analytics Institute, I used machine learning techniques in R to quantify the risk of mortality for a given patient, based on individual health data</li>
+<li>Used machine learning techniques in R to quantify the risk of mortality for a given patient, based on individual health data</li>
 <li>Performed exploratory data analysis to gain insights from provided data</li>
 <li>Ran feature selection to get rid of unrelated variables, and generated a logistic regression model</li>
 </ul>
 <br>
 
-**Teaching Assistant** \| UNC Computer Science Department \| _2023 - Present_    
+**Teaching Assistant - COMP 110** \| UNC Computer Science Department \| _2023 - 2024 \(3 semesters\)_    
 <ul>
-<li>Mentor and assist over 900<sup><a href="#footnote1">1</a></sup> Introduction to Programming (COMP 110) students, explaining concepts to both Computer Science and non-technical majors</li>
-<li>Grade assignments and quizzes to provide feedback, and develop lesson plans</li>
+<li>Assisted over 900<sup><a href="#footnote1">1</a></sup> Introduction to Programming students, explaining concepts to both Computer Science and non-technical majors</li>
+<li>Graded assignments and quizzes to provide feedback, and developed lesson plans</li>
 </ul>
 <br>
 
-**Team-Building Lead** \| UNC COMP 110 Teaching Assistant Team \| _2024 - Present_   
+**Team-Building Lead** \| UNC COMP 110 Teaching Assistant Team \| _2024 \(1 semester\)_   
 <ul>
-<li>Plan, obtain funding for, and host events for the COMP 110 Teaching Assistant Team</li>
-<li>Ensure that other TAs respond to tickets promptly and work their scheduled office hours shifts</li>
-<li>Assist newer TAs with technical problems they can't solve during office hours (usually issues with Docker, git, or Visual Studio Code)</li>
+<li>Planned, obtained funding for, and hosted events for the COMP 110 Teaching Assistant Team</li>
+<li>Ensured that other TAs responded to tickets promptly and worked their scheduled office hours shifts</li>
+<li>Assisted newer TAs with technical problems during office hours (typically issues with Docker, git, or Visual Studio Code)</li>
+</ul>
+<br>
+
+**Teaching Assistant - COMP 455** \| UNC Computer Science Department \| _2025 - present \(1 semester\)_   
+<ul>
+<li>Hold regularly scheduled office hours for an advanced theoretical computer science class</li> 
+<li>Provide tutoring and homework help on topics such as automata, formal grammars and languages, Turing machines, undecidability problems, and complexity theory</li>
+<li>Grade homework and exams, conduct review sessions for exams</li>
+<li>Assist the professor in designing exam questions</li>
 </ul>
 <br>
 
 **Data Desk** \| The Daily Tar Heel \| _2024_   
 <ul>
-<li>Conduct research to obtain data for various news articles</li>
-<li>Organize, analyze, and create visualizations with relevant data</li>
+<li>Conducted research to obtain data for various news articles</li>
+<li>Organizeed, analyzeed, and created visualizations with relevant data</li>
 <li>Read an article featuring one of my visualizations <a href="https://www.dailytarheel.com/article/2024/02/city-ocs-teacher-hiring-retention-update">here</a></li>
 </ul>
 <br>
