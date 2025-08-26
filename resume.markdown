@@ -47,9 +47,9 @@ _Computer Science, B.S._ \| _Statistics and Analytics, B.S._
 
 **Data Science Intern** \| Booz Allen Hamilton \| _2025 - present_   
 <ul>
-<li>Built a data integration and analytics project in Palantir Foundry utilizing the platform’s object-oriented database. </li>
-<li>Implemented TypeScript functions for data transformations, designed prompting workflows for large language models, and developed optimization models in Python with linear programming libraries.</li>
-<li>Demoed the solution to customer leadership, demonstrating possibilities for integrating AI capabilities.</li>
+<li>Built a data integration and analytics project in Palantir Foundry utilizing the platform’s object-oriented database</li>
+<li>Implemented TypeScript functions for data transformations, designed prompting workflows for large language models, and developed optimization models in Python with linear programming libraries</li>
+<li>Demoed the solution to customer leadership, demonstrating possibilities for integrating AI capabilities</li>
 </ul>
 <br>
 
