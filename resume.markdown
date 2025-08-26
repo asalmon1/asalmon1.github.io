@@ -14,10 +14,10 @@ View my resume as a PDF [here](https://drive.google.com/file/d/1b38k48m7GQNYfLu1
 **The University of North Carolina at Chapel Hill** \| Chapel Hill, NC   
 **Expected Graduation**: May 2026
 
-Computer Science, B.S. \| Statistics and Analytics, B.S.   
-GPA: 3.990 \| Major GPA: 4.000
+_Computer Science, B.S._ \| _Statistics and Analytics, B.S._   
+**Computer Science GPA**: 4.000 \| **Statistics and Analytics GPA**: 4.000
 
-**Relevant Courses**: Methods of Data Analysis, Systems Fundamentals, Linear Algebra, Decision Analytics, Optimization, Files and Databases, Foundations of Software Engineering, Computer Organization, Algorithms and Analysis
+**Relevant Courses**: Methods of Data Analysis, Systems Fundamentals, Linear Algebra, Decision Analytics, Optimization, Files and Databases, Foundations of Software Engineering, Computer Organization, Algorithms and Analysis, Machine Learning, Cryptography
 
 ### Technical Skills
 
@@ -45,8 +45,15 @@ GPA: 3.990 \| Major GPA: 4.000
 
 ### Professional Experience
 
+**Data Science Intern** \| Booz Allen Hamilton \| _2025 - present_   
+<ul>
+<li>Built a data integration and analytics project in Palantir Foundry utilizing the platform’s object-oriented database. </li>
+<li>Implemented TypeScript functions for data transformations, designed prompting workflows for large language models, and developed optimization models in Python with linear programming libraries.</li>
+<li>Demoed the solution to customer leadership, demonstrating possibilities for integrating AI capabilities.</li>
+</ul>
+<br>
 
-**Data Science and Machine Learning Intern** \| Healthcare Data Analytics Institute \| _2024_   
+**Machine Learning Intern** \| Healthcare Data Analytics Institute \| _2024_   
 <ul>
 <li>Used machine learning techniques in R to quantify the risk of mortality for a given patient, based on individual health data</li>
 <li>Performed exploratory data analysis to gain insights from provided data</li>
@@ -54,14 +61,14 @@ GPA: 3.990 \| Major GPA: 4.000
 </ul>
 <br>
 
-**Teaching Assistant - COMP 110** \| UNC Computer Science Department \| _2023 - 2024 \(3 semesters\)_    
+**Teaching Assistant - COMP 110** \| UNC Computer Science Department \| _2023 - 2024_    
 <ul>
 <li>Assisted over 900<sup><a href="#footnote1">1</a></sup> Introduction to Programming students, explaining concepts to both Computer Science and non-technical majors</li>
 <li>Graded assignments and quizzes to provide feedback, and developed lesson plans</li>
 </ul>
 <br>
 
-**Team-Building Lead** \| UNC COMP 110 Teaching Assistant Team \| _2024 \(1 semester\)_   
+**Team-Building Lead** \| UNC COMP 110 Teaching Assistant Team \| _2024_   
 <ul>
 <li>Planned, obtained funding for, and hosted events for the COMP 110 Teaching Assistant Team</li>
 <li>Ensured that other TAs responded to tickets promptly and worked their scheduled office hours shifts</li>
@@ -69,7 +76,7 @@ GPA: 3.990 \| Major GPA: 4.000
 </ul>
 <br>
 
-**Teaching Assistant - COMP 455** \| UNC Computer Science Department \| _2025 - present \(1 semester\)_   
+**Teaching Assistant - COMP 455** \| UNC Computer Science Department \| _2025 - present_   
 <ul>
 <li>Hold regularly scheduled office hours for an advanced theoretical computer science class</li> 
 <li>Provide tutoring and homework help on topics such as automata, formal grammars and languages, Turing machines, undecidability problems, and complexity theory</li>
