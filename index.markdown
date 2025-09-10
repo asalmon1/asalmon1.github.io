@@ -11,7 +11,5 @@ title: About
     <p>I entered university as a Psychology major, with no experience in technical fields whatsoever. I only discovered my interest in programming and mathematics when I took an Introduction to Computer Science course as a freshman. This led me to apply to the UNC Computer Science major, and I even went on to become an Undergraduate Teaching Assistant for that very class.</p>
 
     <p>My current interests include machine learning, data modeling & analysis, generative AI, and theories of computation.</p>
-
-    <p>During the summer of 2025 I am working as a Data Science Intern at Booz Allen Hamilton. Please see my Linkedin for updates!</p>
   </div>
 </div>
